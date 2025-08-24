@@ -71,3 +71,27 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: sleep another 3
         run: sleep 3
+
+       # Runs a set of commands using the runners shell
+      - name: sleep another 3
+        run: sleep 3
+
+       # Runs a set of commands using the runners shell
+      - name: sleep another 3
+        run: sleep 3
+
+       # Runs a set of commands using the runners shell
+      - name: sleep another 3
+        run: sleep 3
+
+       # Runs a set of commands using the runners shell
+      - name: sleep another 3
+        run: sleep 3
+
+       # Runs a set of commands using the runners shell
+      - name: sleep another 3
+        run: sleep 3
+
+       # Runs a set of commands using the runners shell
+      - name: sleep another 3
+        run: sleep 3
